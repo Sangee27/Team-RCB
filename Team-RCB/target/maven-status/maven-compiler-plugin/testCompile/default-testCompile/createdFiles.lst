@@ -1,0 +1,4 @@
+org/testvag/AppTest.class
+org/testvag/functions/apiFunctions.class
+org/testvag/runner/TestRunner.class
+org/testvag/stepdefinition/playersDetailsVerification.class
